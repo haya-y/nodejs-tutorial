@@ -1,0 +1,22 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "nodejs-tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haya-y/nodejs-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haya-y/nodejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/haya-y/nodejs-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
